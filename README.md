@@ -13,7 +13,7 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.SavageAvocado:SpigotUpdateChecker:1.0.0-SNAPSHOT'
+    compile 'com.github.SavageAvocado:SpigotUpdateChecker:1.0.0'
 }
 
 shadowJar {
