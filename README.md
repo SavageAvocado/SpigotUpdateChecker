@@ -1,4 +1,7 @@
 # SpigotUpdateChecker
+
+[![](https://jitpack.io/v/SavageAvocado/SpigotUpdateChecker.svg)](https://jitpack.io/#SavageAvocado/SpigotUpdateChecker)
+
 A simple SpigotMC resource update checker.
 
 How to include the API with Gradle:
