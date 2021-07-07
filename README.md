@@ -16,15 +16,10 @@ repositories {
 }
 
 dependencies {
-    compile 'com.github.SavageAvocado:SpigotUpdateChecker:1.0.0'
+    implementation 'com.github.SavageAvocado:SpigotUpdateChecker:1.0.0'
 }
 
 shadowJar {
-    getArchiveFileName().set('${project.name}-${project.version}.jar')
-    configurations = [project.configurations.compile]
-}
-
-artifacts {
-    shadowJar
+    archiveFileName = "${rootProject.name}-Spigot-${project.version}.jar"
 }
 ```
