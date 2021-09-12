@@ -1,6 +1,6 @@
 # SpigotUpdateChecker
 
-[![](https://jitpack.io/v/SavageAvocado/SpigotUpdateChecker.svg)](https://jitpack.io/#SavageAvocado/SpigotUpdateChecker)
+[![](https://img.shields.io/nexus/r/net.savagedev/SpigotUpdateChecker?nexusVersion=3&server=https%3A%2F%2Frepo.savagedev.net%2F&style=flat-square)
 
 A simple SpigotMC resource update checker.
 
