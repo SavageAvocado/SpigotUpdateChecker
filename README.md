@@ -12,11 +12,11 @@ plugins {
 }
 
 repositories {
-	maven { url 'https://jitpack.io' }
+    maven { url 'https://repo.savagedev.net/repository/maven-releases/' }
 }
 
 dependencies {
-    implementation 'com.github.SavageAvocado:SpigotUpdateChecker:1.0.0'
+    implementation 'net.savagedev:SpigotUpdateChecker:1.0.0'
 }
 
 shadowJar {
